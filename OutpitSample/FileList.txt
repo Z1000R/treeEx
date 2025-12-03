@@ -1,0 +1,47 @@
+﻿.\TestData
+│  サンプル🚀123.txt
+│  𠮷野家.txt
+└─Data
+    ├─Archive
+    │    ArchiveAttribute.txt
+    │    empty.txt
+    │    HiddenAttribute.txt
+    │    ReadOnlyAttribute.txt
+    │    ReadOnlyHiddenAttribute.txt
+    ├─Hidden
+    │    ArchiveAttribute.txt
+    │    empty.txt
+    │    HiddenAttribute.txt
+    │    ReadOnlyAttribute.txt
+    │    ReadOnlyHiddenAttribute.txt
+    ├─ReadOnly
+    │    ArchiveAttribute.txt
+    │    empty.txt
+    │    HiddenAttribute.txt
+    │    ReadOnlyAttribute.txt
+    │    ReadOnlyHiddenAttribute.txt
+    ├─ReadOnlyHidden
+    │    ArchiveAttribute.txt
+    │    empty.txt
+    │    HiddenAttribute.txt
+    │    ReadOnlyAttribute.txt
+    │    ReadOnlyHiddenAttribute.txt
+    ├─SpecialName
+    │    no Extention File
+    │    noExtentionFile
+    │    with Space Name.txt
+    │    with_UnderScore_Name.txt
+    │    with-Hyphen-Name.txt
+    │    withUnicodeString🍋🍓.txt
+    ├─with Space
+    │    ArchiveAttribute.txt
+    │    empty.txt
+    │    HiddenAttribute.txt
+    │    ReadOnlyAttribute.txt
+    │    ReadOnlyHiddenAttribute.txt
+    └─withUnicodeString🍎🥕
+          ArchiveAttribute.txt
+          empty.txt
+          HiddenAttribute.txt
+          ReadOnlyAttribute.txt
+          ReadOnlyHiddenAttribute.txt

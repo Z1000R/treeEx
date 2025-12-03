@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="treeEx/treeEx.vcxproj" Id="b045a291-2eb2-489b-8cfa-3e490937bb58" />
+</Solution>
