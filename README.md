@@ -140,7 +140,8 @@ treeEx C:\Data -o FileList.txt
 
 ## 📄 ライセンス
 
-- MIT License
+Copyright (c) 2025 Z1000R  
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.txt) file for details.  
 
 ## 免責事項
 
